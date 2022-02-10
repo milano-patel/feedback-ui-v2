@@ -43,3 +43,7 @@ This App is created using html, css, and React. We are using React Context to ma
 
 5. If you have any Node version conflict errors like : "digital envelope routines::initialization error"
    run the following command in current app terminal : **_export NODE_OPTIONS=--openssl-legacy-provider_**
+
+## Credit
+
+Brad Traversy's Udemy Course - React Front to Back 2022: https://www.udemy.com/course/react-front-to-back-2022/
