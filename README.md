@@ -33,7 +33,9 @@ This App is created using html, css, and React. We are using React Context to ma
 
 2. Install Json Server: **_npm install json-server_** and add following script into the package.json:
 
-   ## "server": "json-server --watch db.json"
+   ```
+   "server": "json-server --watch db.json"
+   ```
 
 3. Now run the json-server first on the cmd using : **_npm run server_** , which will operate on port localhost:3000
 
